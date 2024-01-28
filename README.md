@@ -19,4 +19,5 @@ Para executar esse projeto, rode:
 ## Referências
 
  - [Documentação da Google Sheets](https://developers.google.com/sheets/api/guides/concepts)
+ - [Planilha utilizada](https://docs.google.com/spreadsheets/d/110a6ODFdYAWA0wSQUVDtu5ebNAXpyYiL9ZXe88UNc40/)
 
